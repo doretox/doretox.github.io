@@ -201,7 +201,7 @@ No answer needed.
 
 2. Perform an Xmas scan on the first 999 ports of the target -- how many ports are shown to be open or filtered?
 
-    ![Nmap Xmass](/images/nmap-walkthrough/nmap-xmass.png)
+    ![Nmap Xmass](/images/nmap-walkthrough/nmap-xmas.png)
 
     **Answer:** 999
 
@@ -213,7 +213,7 @@ No answer needed.
 
 4. Perform a TCP SYN scan on the first 5000 ports of the target -- how many ports are shown to be open?
 
-    ![Nmap TCP SYN Scan](/images/nmap-walkthrough/nmap-tcp-syn.png)
+    ![Nmap TCP SYN Scan](/images/nmap-walkthrough/namp-tcp-syn.png)
     
     **Answer:** 5
 
