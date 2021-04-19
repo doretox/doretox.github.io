@@ -173,7 +173,7 @@ No answer needed.
 
 # Task 12 - [NSE Scripts] Searching for Scripts
 
-1. Search for "smb" scripts in the ````/usr/share/nmap/scripts/` ```directory using either of the demonstrated methods. What is the filename of the script which determines the underlying OS of the SMB server?
+1. Search for "smb" scripts in the ````/usr/share/nmap/scripts/````directory using either of the demonstrated methods. What is the filename of the script which determines the underlying OS of the SMB server?
 
     **Answer:** smb-os-discovery.nse
 
