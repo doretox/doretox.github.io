@@ -128,7 +128,7 @@ No answer needed.
 
 1. If a UDP port doesn't respond to an Nmap scan, what will it be marked as?
 
-    **Answer:** ![Nmap open|filtered](\images\nmap-walkthrough\nmap-open-filtered.png)
+    **Answer:** ![Nmap open-filtered](\images\nmap-walkthrough\nmap-open-filtered.png)
 
 2. When a UDP port is closed, by convention the target should send back a "port unreachable" message. 
     Which protocol would it use to do so?
