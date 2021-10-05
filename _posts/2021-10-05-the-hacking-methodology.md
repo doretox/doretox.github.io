@@ -70,4 +70,4 @@ The report is the final product of penetration testing, where the hacker will sh
 You can read a full format report sample here: <a href="https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report" target="_blank">https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report</a> 
 
 
-*If you find any errors in this post please don't hesitate to contact me on Twitter at <a href="@doretox" target="_blank">https://twitter.com/doretox</a>. I would be grateful for your help.*
+*If you find any errors in this post please don't hesitate to contact me on Twitter at <a href="https://twitter.com/doretox" target="_blank">@doretox</a>. I would be grateful for your help.*
