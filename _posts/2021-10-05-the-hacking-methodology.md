@@ -34,12 +34,15 @@ This phase is called the most important of all hacking methodology because it is
 
 This is a step where a hacker will interact with the target to attempt to find vulnerabilities, based on the information collected in the Reconnaissance phase.
 Tools like Nmap, Metasploit, exploit-dB, Burp Suite, and others are pretty useful to find vulnerabilities.
+
 Nmap ("Network Mapper") is the most used and well-known it can be used to find live hosts on a network, perform port scanning, ping sweeps, OS detection, and version detection. All this information is critical and can lead to a successful pentest.
 
 # Exploitation
 
 Exploitation is the process of planning and executing the attack based on the information obtained in the previous phases (Reconnaissance and Enumeration). In this phase, the attacker performs the actual hacking process using hacking tools, like Metasploit and burp suite.
+
 Metasploit is a framework with built-in scripts that helps to exploit a machine.
+
 Burp Suite is used to exploit web applications.
 
 # Privilege Escalation
