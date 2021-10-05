@@ -67,7 +67,7 @@ To cover the tracks the hacker will remove any evidence of the attack preset in 
 
 In this phase, the ethical hacker writes everything that was found and executed, step by step in high detail.
 The report is the final product of penetration testing, where the hacker will show the vulnerabilities, the criticality, how it was exploited, and commonly how to fix it.
-You can read a full format report sample here:  ****[https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report](https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report)
+You can read a full format report sample here: <a href="https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report" target="_blank">https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report</a> 
 
 
-*If you find any errors in this post please don't hesitate to contact me on Twitter at* [@doretox](https://twitter.com/doretox)*. I would be grateful for your help.*
+*If you find any errors in this post please don't hesitate to contact me on Twitter at <a href="@doretox" target="_blank">https://twitter.com/doretox</a>. I would be grateful for your help.*
