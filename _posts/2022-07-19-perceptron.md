@@ -3,7 +3,7 @@ layout: post
 title:  "Understanding the Linux file system"
 description: Understanding how Linux file system is organized.
 date:   2020-04-13 00:00:00 +0530
-categories: [Linux]
+categories: [AI]
 ---
 The Perceptron was created in 1958 by Rosenblatt, being the most simple form of an artificial neural network, built of one single neural layer and a single neuron.
 The following image shows how a perceptron works.
