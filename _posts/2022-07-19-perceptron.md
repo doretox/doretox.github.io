@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Understanding the Linux file system"
-description: Understanding how Linux file system is organized.
-date:   2020-04-13 00:00:00 +0530
+title:  "Perceptron the most simple form of an artificial neural network"
+description: Built of one single neural layer and a single neuron.
+date:   2022-07-19 00:00:00 +0530
 categories: [AI]
 ---
 The Perceptron was created in 1958 by Rosenblatt, being the most simple form of an artificial neural network, built of one single neural layer and a single neuron.
