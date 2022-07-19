@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Perceptron the most simple form of an artificial neural network"
+title:  "Perceptron: The most simple form of an artificial neural network"
 description: Built of one single neural layer and a single neuron.
 date:   2022-07-19 00:00:00 +0530
 categories: [Neural Networks]
