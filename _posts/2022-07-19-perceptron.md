@@ -33,7 +33,7 @@ s = multiply_and_sum(inputs, weights)
 
 
 def step_function(sm):
-    """Determine if the neuron will of not activate."""
+    """Determines if the neuron will activate or not."""
     if sm >= 1:
         return 1
     return 0
