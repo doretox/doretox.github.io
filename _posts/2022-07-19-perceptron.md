@@ -18,8 +18,8 @@ Down below you can see a simple code representation of a perceptron.
 ```python
 import numpy as np
 
-# if you change the first value to -1 in inputs, the neuron will return 0 and
-# will not activate.
+# if you change the first value to -1 in inputs, the step funcion will
+# return 0 and the neuron will not activate.
 inputs = np.array([1, 7, 5])
 weights = np.array([0.8, 0.1, 0])
 
