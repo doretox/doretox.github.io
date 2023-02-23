@@ -3,7 +3,7 @@ layout: post
 title:  "The Hacking Methodology"
 description: The Hacking Methodology.
 date:   2021-10-05 00:00:00 -0500
-categories: [Hacking]
+categories: [InfoSec]
 ---
 The hacking methodology is a methodical and logical process that every hacker follows to accomplish a penetration test. This ensures consistency and a pattern to be followed by the industry.
 
