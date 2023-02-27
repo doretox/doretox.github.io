@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on doretox</title>
+    <link>https://doretox.github.io/posts/</link>
+    <description>Recent content in Posts on doretox</description>
+    <image>
+      <title>doretox</title>
+      <url>https://doretox.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://doretox.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0530</lastBuildDate><atom:link href="https://doretox.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Essential areas of knowledge to get started in Cybersecurity</title>
+      <link>https://doretox.github.io/posts/2023-02-24-knowledge-get-started-infosec/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0530</pubDate>
+      
+      <guid>https://doretox.github.io/posts/2023-02-24-knowledge-get-started-infosec/</guid>
+      <description>Essential areas of knowledge to get started in Cybersecurity.</description>
+    </item>
+    
+    <item>
+      <title>Perceptron: The most simple form of an artificial neural network</title>
+      <link>https://doretox.github.io/posts/2022-07-19-perceptron/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0530</pubDate>
+      
+      <guid>https://doretox.github.io/posts/2022-07-19-perceptron/</guid>
+      <description>Built of one single neural layer and a single neuron.</description>
+    </item>
+    
+    <item>
+      <title>The Hacking Methodology</title>
+      <link>https://doretox.github.io/posts/2021-10-05-the-hacking-methodology/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://doretox.github.io/posts/2021-10-05-the-hacking-methodology/</guid>
+      <description>The Hacking Methodology.</description>
+    </item>
+    
+    <item>
+      <title>Ex Machina Easter Egg Code</title>
+      <link>https://doretox.github.io/posts/2021-03-20-ex-machina-easter-egg-code/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://doretox.github.io/posts/2021-03-20-ex-machina-easter-egg-code/</guid>
+      <description>Ex Machina Easter Egg Code.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe: Nmap Walkthrough</title>
+      <link>https://doretox.github.io/posts/2021-04-19-nmap-walkthrought/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://doretox.github.io/posts/2021-04-19-nmap-walkthrought/</guid>
+      <description>Nmap TryHackMe Room Walkthrough.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe: MAL: Malware Introductory Walkthrough</title>
+      <link>https://doretox.github.io/posts/2021-02-22-malware-introductory-walkthrough/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://doretox.github.io/posts/2021-02-22-malware-introductory-walkthrough/</guid>
+      <description>Malware Introductory TryHackMe Room Walkthrough - How to solve it.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe: Introductory Networking Walkthrough</title>
+      <link>https://doretox.github.io/posts/2021-02-11-introductory-networking-walkthrough/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://doretox.github.io/posts/2021-02-11-introductory-networking-walkthrough/</guid>
+      <description>Introductory Networking TryHackMe Room Walkthrough - How to solve it.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe: tmux Walkthrough</title>
+      <link>https://doretox.github.io/posts/2021-02-04-tmux-walkthrough/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://doretox.github.io/posts/2021-02-04-tmux-walkthrough/</guid>
+      <description>tmux TryHackMe Room Walkthrough - How to solve it.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe: Introductory Researching Walkthrough</title>
+      <link>https://doretox.github.io/posts/2021-02-01-introductory-researching-walkthrough/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://doretox.github.io/posts/2021-02-01-introductory-researching-walkthrough/</guid>
+      <description>Introductory Researching TryHackMe Room Walkthrough - How to solve it.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe: Google Dorking Walkthrough</title>
+      <link>https://doretox.github.io/posts/2021-01-29-google-dorking-walkthrough/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://doretox.github.io/posts/2021-01-29-google-dorking-walkthrough/</guid>
+      <description>Google Dorking TryHackMe Room Walkthrough - How to solve it.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe: Linux Fundamentals Part 3 Walkthrough</title>
+      <link>https://doretox.github.io/posts/2021-01-27-linux-fundamentals-part-3-walkthrough/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://doretox.github.io/posts/2021-01-27-linux-fundamentals-part-3-walkthrough/</guid>
+      <description>Linux Fundamentals Part 3 TryHackMe Room Walkthrough - How to solve it.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe: Linux Fundamentals Part 2 Walkthrough</title>
+      <link>https://doretox.github.io/posts/2021-01-22-linux-fundamentals-part-2-walkthrough/</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://doretox.github.io/posts/2021-01-22-linux-fundamentals-part-2-walkthrough/</guid>
+      <description>Linux Fundamentals Part 2 TryHackMe Room Walkthrough - How to solve it.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe: Linux Fundamentals Part 1 Walkthrough</title>
+      <link>https://doretox.github.io/posts/2021-01-21-linux-fundamentals-part-1-walkthrough/</link>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://doretox.github.io/posts/2021-01-21-linux-fundamentals-part-1-walkthrough/</guid>
+      <description>Linux Fundamentals Part 1 TryHackMe Room Walkthrough - How to solve it.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe: The find command Walkthrough</title>
+      <link>https://doretox.github.io/posts/2021-01-20-the-find-command-walkthrough/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://doretox.github.io/posts/2021-01-20-the-find-command-walkthrough/</guid>
+      <description>The find command TryHackMe Room Walkthrough - How to solve it.</description>
+    </item>
+    
+    <item>
+      <title>Physical Network Topologies</title>
+      <link>https://doretox.github.io/posts/2020-07-23-physical-network-topologies/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://doretox.github.io/posts/2020-07-23-physical-network-topologies/</guid>
+      <description>How physical network topologies are setup.</description>
+    </item>
+    
+    <item>
+      <title>Why You Should Start Your Infosec Career by Learning Linux</title>
+      <link>https://doretox.github.io/posts/2020-06-22-why-you-should-start-your-infosec-career-by-learning-linux/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://doretox.github.io/posts/2020-06-22-why-you-should-start-your-infosec-career-by-learning-linux/</guid>
+      <description>A discussion about why you should start your infosec career by learning Linux.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe: OhSINT Walkthrough</title>
+      <link>https://doretox.github.io/posts/2020-05-19-ohsint-tryhackme-walkthrough/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://doretox.github.io/posts/2020-05-19-ohsint-tryhackme-walkthrough/</guid>
+      <description>OhSINT TryHackMe Room Walkthrough - How to solve it.</description>
+    </item>
+    
+    <item>
+      <title>A really simple guessing game in C</title>
+      <link>https://doretox.github.io/posts/2020-05-02-beginner-game-c/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0530</pubDate>
+      
+      <guid>https://doretox.github.io/posts/2020-05-02-beginner-game-c/</guid>
+      <description>A basic C game with focus on new programmers.</description>
+    </item>
+    
+    <item>
+      <title>Understanding the Linux file system</title>
+      <link>https://doretox.github.io/posts/2020-04-13-linux-file-system/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0530</pubDate>
+      
+      <guid>https://doretox.github.io/posts/2020-04-13-linux-file-system/</guid>
+      <description>Understanding how Linux file system is organized.</description>
+    </item>
+    
+  </channel>
+</rss>
