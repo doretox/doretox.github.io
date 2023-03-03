@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://doretox.github.io/sitemap.xml
