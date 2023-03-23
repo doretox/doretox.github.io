@@ -3,27 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://doretox.github.io/</loc>
+    <lastmod>2023-03-23T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://doretox.github.io/posts/2023-03-23-how-av-works/</loc>
+    <lastmod>2023-03-23T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://doretox.github.io/tags/infosec/</loc>
+    <lastmod>2023-03-23T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://doretox.github.io/posts/</loc>
+    <lastmod>2023-03-23T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://doretox.github.io/tags/</loc>
+    <lastmod>2023-03-23T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://doretox.github.io/tags/ai/</loc>
     <lastmod>2023-03-07T00:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://doretox.github.io/</loc>
-    <lastmod>2023-03-07T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://doretox.github.io/posts/2023-03-07-types-of-ai/</loc>
-    <lastmod>2023-03-07T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://doretox.github.io/posts/</loc>
-    <lastmod>2023-03-07T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://doretox.github.io/tags/</loc>
     <lastmod>2023-03-07T00:00:00+05:30</lastmod>
   </url>
   
@@ -34,11 +44,6 @@
   
   <url>
     <loc>https://doretox.github.io/posts/2023-02-24-knowledge-get-started-infosec/</loc>
-    <lastmod>2023-02-24T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://doretox.github.io/tags/infosec/</loc>
     <lastmod>2023-02-24T00:00:00+05:30</lastmod>
   </url>
   
