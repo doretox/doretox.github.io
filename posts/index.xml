@@ -10,7 +10,16 @@
       <link>https://doretox.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 23 Mar 2023 00:00:00 +0530</lastBuildDate><atom:link href="https://doretox.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0530</lastBuildDate><atom:link href="https://doretox.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding Tensors: The Key to Unlocking the Power of AI.</title>
+      <link>https://doretox.github.io/posts/2023-04-04-tensors/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0530</pubDate>
+      
+      <guid>https://doretox.github.io/posts/2023-04-04-tensors/</guid>
+      <description>Explaining in a simply way how does a tensor works.</description>
+    </item>
+    
     <item>
       <title>How Does Anti-Virus Software Work? A Comprehensive Guide for Everyone.</title>
       <link>https://doretox.github.io/posts/2023-03-23-how-av-works/</link>
