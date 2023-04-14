@@ -10,31 +10,40 @@
       <link>https://doretox.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 23 Mar 2023 00:00:00 +0530</lastBuildDate><atom:link href="https://doretox.github.io/tags/infosec/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0530</lastBuildDate><atom:link href="https://doretox.github.io/tags/infosec/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Endpoint Detection and Response (EDR) vs Antivirus: Understanding the Differences</title>
+      <link>https://doretox.github.io/posts/av-and-edr/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0530</pubDate>
+      
+      <guid>https://doretox.github.io/posts/av-and-edr/</guid>
+      <description>An article explaining the differences between av and edr.</description>
+    </item>
+    
     <item>
       <title>How Does Anti-Virus Software Work? A Comprehensive Guide for Everyone.</title>
-      <link>https://doretox.github.io/posts/2023-03-23-how-av-works/</link>
+      <link>https://doretox.github.io/posts/how-av-works/</link>
       <pubDate>Thu, 23 Mar 2023 00:00:00 +0530</pubDate>
       
-      <guid>https://doretox.github.io/posts/2023-03-23-how-av-works/</guid>
+      <guid>https://doretox.github.io/posts/how-av-works/</guid>
       <description>Explaining in a simply way how does an anti-virus works.</description>
     </item>
     
     <item>
       <title>Essential areas of knowledge to get started in Cybersecurity</title>
-      <link>https://doretox.github.io/posts/2023-02-24-knowledge-get-started-infosec/</link>
+      <link>https://doretox.github.io/posts/knowledge-get-started-infosec/</link>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0530</pubDate>
       
-      <guid>https://doretox.github.io/posts/2023-02-24-knowledge-get-started-infosec/</guid>
+      <guid>https://doretox.github.io/posts/knowledge-get-started-infosec/</guid>
       <description>Essential areas of knowledge to get started in Cybersecurity.</description>
     </item>
     
     <item>
       <title>The Hacking Methodology</title>
-      <link>https://doretox.github.io/posts/2021-10-05-the-hacking-methodology/</link>
+      <link>https://doretox.github.io/posts/the-hacking-methodology/</link>
       <pubDate>Tue, 05 Oct 2021 00:00:00 -0500</pubDate>
       
-      <guid>https://doretox.github.io/posts/2021-10-05-the-hacking-methodology/</guid>
+      <guid>https://doretox.github.io/posts/the-hacking-methodology/</guid>
       <description>The Hacking Methodology.</description>
     </item>
     

@@ -10,211 +10,220 @@
       <link>https://doretox.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0530</lastBuildDate><atom:link href="https://doretox.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0530</lastBuildDate><atom:link href="https://doretox.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Endpoint Detection and Response (EDR) vs Antivirus: Understanding the Differences</title>
+      <link>https://doretox.github.io/posts/av-and-edr/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0530</pubDate>
+      
+      <guid>https://doretox.github.io/posts/av-and-edr/</guid>
+      <description>An article explaining the differences between av and edr.</description>
+    </item>
+    
     <item>
       <title>Understanding Tensors: The Key to Unlocking the Power of AI.</title>
-      <link>https://doretox.github.io/posts/2023-04-04-tensors/</link>
+      <link>https://doretox.github.io/posts/tensors/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0530</pubDate>
       
-      <guid>https://doretox.github.io/posts/2023-04-04-tensors/</guid>
+      <guid>https://doretox.github.io/posts/tensors/</guid>
       <description>Explaining in a simply way how does a tensor works.</description>
     </item>
     
     <item>
       <title>How Does Anti-Virus Software Work? A Comprehensive Guide for Everyone.</title>
-      <link>https://doretox.github.io/posts/2023-03-23-how-av-works/</link>
+      <link>https://doretox.github.io/posts/how-av-works/</link>
       <pubDate>Thu, 23 Mar 2023 00:00:00 +0530</pubDate>
       
-      <guid>https://doretox.github.io/posts/2023-03-23-how-av-works/</guid>
+      <guid>https://doretox.github.io/posts/how-av-works/</guid>
       <description>Explaining in a simply way how does an anti-virus works.</description>
     </item>
     
     <item>
       <title>Exploring the Different Types of Artificial Intelligence: Machine Learning, Deep Learning, Reinforcement Learning, and More</title>
-      <link>https://doretox.github.io/posts/2023-03-07-types-of-ai/</link>
+      <link>https://doretox.github.io/posts/types-of-ai/</link>
       <pubDate>Tue, 07 Mar 2023 00:00:00 +0530</pubDate>
       
-      <guid>https://doretox.github.io/posts/2023-03-07-types-of-ai/</guid>
+      <guid>https://doretox.github.io/posts/types-of-ai/</guid>
       <description>Explaining the Different Types of Artificial Intelligence Machine Learning, Deep Learning, Reinforcement Learning, and More</description>
     </item>
     
     <item>
       <title>After all, what is ChatGPT?</title>
-      <link>https://doretox.github.io/posts/2023-03-03-after-all-what-is-chat-gpt/</link>
+      <link>https://doretox.github.io/posts/after-all-what-is-chat-gpt/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0530</pubDate>
       
-      <guid>https://doretox.github.io/posts/2023-03-03-after-all-what-is-chat-gpt/</guid>
+      <guid>https://doretox.github.io/posts/after-all-what-is-chat-gpt/</guid>
       <description>An article explaining what is chatgpt.</description>
     </item>
     
     <item>
       <title>Essential areas of knowledge to get started in Cybersecurity</title>
-      <link>https://doretox.github.io/posts/2023-02-24-knowledge-get-started-infosec/</link>
+      <link>https://doretox.github.io/posts/knowledge-get-started-infosec/</link>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0530</pubDate>
       
-      <guid>https://doretox.github.io/posts/2023-02-24-knowledge-get-started-infosec/</guid>
+      <guid>https://doretox.github.io/posts/knowledge-get-started-infosec/</guid>
       <description>Essential areas of knowledge to get started in Cybersecurity.</description>
     </item>
     
     <item>
       <title>Perceptron: The most simple form of an artificial neural network</title>
-      <link>https://doretox.github.io/posts/2022-07-19-perceptron/</link>
+      <link>https://doretox.github.io/posts/perceptron/</link>
       <pubDate>Tue, 19 Jul 2022 00:00:00 +0530</pubDate>
       
-      <guid>https://doretox.github.io/posts/2022-07-19-perceptron/</guid>
+      <guid>https://doretox.github.io/posts/perceptron/</guid>
       <description>Built of one single neural layer and a single neuron.</description>
     </item>
     
     <item>
       <title>The Hacking Methodology</title>
-      <link>https://doretox.github.io/posts/2021-10-05-the-hacking-methodology/</link>
+      <link>https://doretox.github.io/posts/the-hacking-methodology/</link>
       <pubDate>Tue, 05 Oct 2021 00:00:00 -0500</pubDate>
       
-      <guid>https://doretox.github.io/posts/2021-10-05-the-hacking-methodology/</guid>
+      <guid>https://doretox.github.io/posts/the-hacking-methodology/</guid>
       <description>The Hacking Methodology.</description>
     </item>
     
     <item>
       <title>Ex Machina Easter Egg Code</title>
-      <link>https://doretox.github.io/posts/2021-03-20-ex-machina-easter-egg-code/</link>
+      <link>https://doretox.github.io/posts/machina-easter-egg-code/</link>
       <pubDate>Sat, 20 Mar 2021 00:00:00 -0500</pubDate>
       
-      <guid>https://doretox.github.io/posts/2021-03-20-ex-machina-easter-egg-code/</guid>
+      <guid>https://doretox.github.io/posts/machina-easter-egg-code/</guid>
       <description>Ex Machina Easter Egg Code.</description>
     </item>
     
     <item>
       <title>TryHackMe: Nmap Walkthrough</title>
-      <link>https://doretox.github.io/posts/2021-04-19-nmap-walkthrought/</link>
+      <link>https://doretox.github.io/posts/nmap-walkthrought/</link>
       <pubDate>Sat, 20 Mar 2021 00:00:00 -0500</pubDate>
       
-      <guid>https://doretox.github.io/posts/2021-04-19-nmap-walkthrought/</guid>
+      <guid>https://doretox.github.io/posts/nmap-walkthrought/</guid>
       <description>Nmap TryHackMe Room Walkthrough.</description>
     </item>
     
     <item>
       <title>TryHackMe: MAL: Malware Introductory Walkthrough</title>
-      <link>https://doretox.github.io/posts/2021-02-22-malware-introductory-walkthrough/</link>
+      <link>https://doretox.github.io/posts/malware-introductory-walkthrough/</link>
       <pubDate>Mon, 22 Feb 2021 00:00:00 -0500</pubDate>
       
-      <guid>https://doretox.github.io/posts/2021-02-22-malware-introductory-walkthrough/</guid>
+      <guid>https://doretox.github.io/posts/malware-introductory-walkthrough/</guid>
       <description>Malware Introductory TryHackMe Room Walkthrough - How to solve it.</description>
     </item>
     
     <item>
       <title>TryHackMe: Introductory Networking Walkthrough</title>
-      <link>https://doretox.github.io/posts/2021-02-11-introductory-networking-walkthrough/</link>
+      <link>https://doretox.github.io/posts/introductory-networking-walkthrough/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:00 -0500</pubDate>
       
-      <guid>https://doretox.github.io/posts/2021-02-11-introductory-networking-walkthrough/</guid>
+      <guid>https://doretox.github.io/posts/introductory-networking-walkthrough/</guid>
       <description>Introductory Networking TryHackMe Room Walkthrough - How to solve it.</description>
     </item>
     
     <item>
       <title>TryHackMe: tmux Walkthrough</title>
-      <link>https://doretox.github.io/posts/2021-02-04-tmux-walkthrough/</link>
+      <link>https://doretox.github.io/posts/tmux-walkthrough/</link>
       <pubDate>Thu, 04 Feb 2021 00:00:00 -0500</pubDate>
       
-      <guid>https://doretox.github.io/posts/2021-02-04-tmux-walkthrough/</guid>
+      <guid>https://doretox.github.io/posts/tmux-walkthrough/</guid>
       <description>tmux TryHackMe Room Walkthrough - How to solve it.</description>
     </item>
     
     <item>
       <title>TryHackMe: Introductory Researching Walkthrough</title>
-      <link>https://doretox.github.io/posts/2021-02-01-introductory-researching-walkthrough/</link>
+      <link>https://doretox.github.io/posts/introductory-researching-walkthrough/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 -0500</pubDate>
       
-      <guid>https://doretox.github.io/posts/2021-02-01-introductory-researching-walkthrough/</guid>
+      <guid>https://doretox.github.io/posts/introductory-researching-walkthrough/</guid>
       <description>Introductory Researching TryHackMe Room Walkthrough - How to solve it.</description>
     </item>
     
     <item>
       <title>TryHackMe: Google Dorking Walkthrough</title>
-      <link>https://doretox.github.io/posts/2021-01-29-google-dorking-walkthrough/</link>
+      <link>https://doretox.github.io/posts/google-dorking-walkthrough/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:00 -0500</pubDate>
       
-      <guid>https://doretox.github.io/posts/2021-01-29-google-dorking-walkthrough/</guid>
+      <guid>https://doretox.github.io/posts/google-dorking-walkthrough/</guid>
       <description>Google Dorking TryHackMe Room Walkthrough - How to solve it.</description>
     </item>
     
     <item>
       <title>TryHackMe: Linux Fundamentals Part 3 Walkthrough</title>
-      <link>https://doretox.github.io/posts/2021-01-27-linux-fundamentals-part-3-walkthrough/</link>
+      <link>https://doretox.github.io/posts/linux-fundamentals-part-3-walkthrough/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 -0500</pubDate>
       
-      <guid>https://doretox.github.io/posts/2021-01-27-linux-fundamentals-part-3-walkthrough/</guid>
+      <guid>https://doretox.github.io/posts/linux-fundamentals-part-3-walkthrough/</guid>
       <description>Linux Fundamentals Part 3 TryHackMe Room Walkthrough - How to solve it.</description>
     </item>
     
     <item>
       <title>TryHackMe: Linux Fundamentals Part 2 Walkthrough</title>
-      <link>https://doretox.github.io/posts/2021-01-22-linux-fundamentals-part-2-walkthrough/</link>
+      <link>https://doretox.github.io/posts/linux-fundamentals-part-2-walkthrough/</link>
       <pubDate>Fri, 22 Jan 2021 00:00:00 -0500</pubDate>
       
-      <guid>https://doretox.github.io/posts/2021-01-22-linux-fundamentals-part-2-walkthrough/</guid>
+      <guid>https://doretox.github.io/posts/linux-fundamentals-part-2-walkthrough/</guid>
       <description>Linux Fundamentals Part 2 TryHackMe Room Walkthrough - How to solve it.</description>
     </item>
     
     <item>
       <title>TryHackMe: Linux Fundamentals Part 1 Walkthrough</title>
-      <link>https://doretox.github.io/posts/2021-01-21-linux-fundamentals-part-1-walkthrough/</link>
+      <link>https://doretox.github.io/posts/linux-fundamentals-part-1-walkthrough/</link>
       <pubDate>Thu, 21 Jan 2021 00:00:00 -0500</pubDate>
       
-      <guid>https://doretox.github.io/posts/2021-01-21-linux-fundamentals-part-1-walkthrough/</guid>
+      <guid>https://doretox.github.io/posts/linux-fundamentals-part-1-walkthrough/</guid>
       <description>Linux Fundamentals Part 1 TryHackMe Room Walkthrough - How to solve it.</description>
     </item>
     
     <item>
       <title>TryHackMe: The find command Walkthrough</title>
-      <link>https://doretox.github.io/posts/2021-01-20-the-find-command-walkthrough/</link>
+      <link>https://doretox.github.io/posts/the-find-command-walkthrough/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 -0500</pubDate>
       
-      <guid>https://doretox.github.io/posts/2021-01-20-the-find-command-walkthrough/</guid>
+      <guid>https://doretox.github.io/posts/the-find-command-walkthrough/</guid>
       <description>The find command TryHackMe Room Walkthrough - How to solve it.</description>
     </item>
     
     <item>
       <title>Physical Network Topologies</title>
-      <link>https://doretox.github.io/posts/2020-07-23-physical-network-topologies/</link>
+      <link>https://doretox.github.io/posts/physical-network-topologies/</link>
       <pubDate>Thu, 23 Jul 2020 00:00:00 -0500</pubDate>
       
-      <guid>https://doretox.github.io/posts/2020-07-23-physical-network-topologies/</guid>
+      <guid>https://doretox.github.io/posts/physical-network-topologies/</guid>
       <description>How physical network topologies are setup.</description>
     </item>
     
     <item>
       <title>Why You Should Start Your Infosec Career by Learning Linux</title>
-      <link>https://doretox.github.io/posts/2020-06-22-why-you-should-start-your-infosec-career-by-learning-linux/</link>
+      <link>https://doretox.github.io/posts/why-you-should-start-your-infosec-career-by-learning-linux/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 -0500</pubDate>
       
-      <guid>https://doretox.github.io/posts/2020-06-22-why-you-should-start-your-infosec-career-by-learning-linux/</guid>
+      <guid>https://doretox.github.io/posts/why-you-should-start-your-infosec-career-by-learning-linux/</guid>
       <description>A discussion about why you should start your infosec career by learning Linux.</description>
     </item>
     
     <item>
       <title>TryHackMe: OhSINT Walkthrough</title>
-      <link>https://doretox.github.io/posts/2020-05-19-ohsint-tryhackme-walkthrough/</link>
+      <link>https://doretox.github.io/posts/ohsint-tryhackme-walkthrough/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 -0500</pubDate>
       
-      <guid>https://doretox.github.io/posts/2020-05-19-ohsint-tryhackme-walkthrough/</guid>
+      <guid>https://doretox.github.io/posts/ohsint-tryhackme-walkthrough/</guid>
       <description>OhSINT TryHackMe Room Walkthrough - How to solve it.</description>
     </item>
     
     <item>
       <title>A really simple guessing game in C</title>
-      <link>https://doretox.github.io/posts/2020-05-02-beginner-game-c/</link>
+      <link>https://doretox.github.io/posts/beginner-game-c/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0530</pubDate>
       
-      <guid>https://doretox.github.io/posts/2020-05-02-beginner-game-c/</guid>
+      <guid>https://doretox.github.io/posts/beginner-game-c/</guid>
       <description>A basic C game with focus on new programmers.</description>
     </item>
     
     <item>
       <title>Understanding the Linux file system</title>
-      <link>https://doretox.github.io/posts/2020-04-13-linux-file-system/</link>
+      <link>https://doretox.github.io/posts/linux-file-system/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0530</pubDate>
       
-      <guid>https://doretox.github.io/posts/2020-04-13-linux-file-system/</guid>
+      <guid>https://doretox.github.io/posts/linux-file-system/</guid>
       <description>Understanding how Linux file system is organized.</description>
     </item>
     
