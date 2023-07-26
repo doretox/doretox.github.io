@@ -3,27 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://doretox.github.io/</loc>
+    <lastmod>2023-07-26T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://doretox.github.io/posts/</loc>
+    <lastmod>2023-07-26T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://doretox.github.io/tags/</loc>
+    <lastmod>2023-07-26T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://doretox.github.io/tags/tryhackme/</loc>
+    <lastmod>2023-07-26T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://doretox.github.io/posts/network-services-2-walkthrough/</loc>
+    <lastmod>2023-07-26T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://doretox.github.io/posts/activation-function/</loc>
     <lastmod>2023-04-25T00:00:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://doretox.github.io/tags/ai/</loc>
-    <lastmod>2023-04-25T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://doretox.github.io/</loc>
-    <lastmod>2023-04-25T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://doretox.github.io/posts/</loc>
-    <lastmod>2023-04-25T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://doretox.github.io/tags/</loc>
     <lastmod>2023-04-25T00:00:00+05:30</lastmod>
   </url>
   
@@ -84,11 +94,6 @@
   
   <url>
     <loc>https://doretox.github.io/tags/programming/</loc>
-    <lastmod>2021-03-20T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://doretox.github.io/tags/tryhackme/</loc>
     <lastmod>2021-03-20T00:00:00-05:00</lastmod>
   </url>
   
