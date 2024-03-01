@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Jul 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://doretox.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0530</lastBuildDate><atom:link href="https://doretox.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ifosec</title>
+      <link>https://doretox.github.io/tags/ifosec/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0530</pubDate>
+      
+      <guid>https://doretox.github.io/tags/ifosec/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>TryHackMe</title>
       <link>https://doretox.github.io/tags/tryhackme/</link>
@@ -27,15 +36,6 @@
       <pubDate>Tue, 25 Apr 2023 00:00:00 +0530</pubDate>
       
       <guid>https://doretox.github.io/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ifosec</title>
-      <link>https://doretox.github.io/tags/ifosec/</link>
-      <pubDate>Tue, 25 Apr 2023 00:00:00 +0530</pubDate>
-      
-      <guid>https://doretox.github.io/tags/ifosec/</guid>
       <description></description>
     </item>
     

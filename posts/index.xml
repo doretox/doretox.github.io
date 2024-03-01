@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Jul 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://doretox.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0530</lastBuildDate><atom:link href="https://doretox.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Princípios Fundamentais de DevSecOps</title>
+      <link>https://doretox.github.io/posts/fundamentos-devsecops/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0530</pubDate>
+      
+      <guid>https://doretox.github.io/posts/fundamentos-devsecops/</guid>
+      <description>Princípios Fundamentais de DevSecOps</description>
+    </item>
+    
     <item>
       <title>TryHackMe: Network Services 2 Walkthrough</title>
       <link>https://doretox.github.io/posts/network-services-2-walkthrough/</link>
@@ -27,15 +36,6 @@
       <pubDate>Tue, 25 Apr 2023 00:00:00 +0530</pubDate>
       
       <guid>https://doretox.github.io/posts/activation-function/</guid>
-      <description>Understanding Activation Functions in AI Types and Examples with Python Code</description>
-    </item>
-    
-    <item>
-      <title>Princípios Fundamentais de DevSecOps</title>
-      <link>https://doretox.github.io/posts/fundamentos-devsecops/</link>
-      <pubDate>Tue, 25 Apr 2023 00:00:00 +0530</pubDate>
-      
-      <guid>https://doretox.github.io/posts/fundamentos-devsecops/</guid>
       <description>Understanding Activation Functions in AI Types and Examples with Python Code</description>
     </item>
     
