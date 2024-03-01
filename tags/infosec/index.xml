@@ -11,14 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0530</lastBuildDate><atom:link href="https://doretox.github.io/tags/infosec/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://doretox.github.io/tags/infosec/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Princípios Fundamentais de DevSecOps</title>
       <link>https://doretox.github.io/posts/fundamentos-devsecops/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>https://doretox.github.io/posts/fundamentos-devsecops/</guid>
-      <description>Entendendo os princípios de DevSecOps.</description>
+      <description>No mundo acelerado do desenvolvimento de software, a segurança não é mais uma tarefa tardia, mas uma parte integrante de todo o processo. É aí que entra o DevSecOps – uma metodologia que combina desenvolvimento, segurança e operações para garantir a entrega segura e eficiente de software.
+Mudança para a esquerda: DevSecOps defende a mudança das práticas de segurança para a esquerda no ciclo de vida de desenvolvimento, o que significa integrar medidas de segurança desde o início do processo de desenvolvimento de software.</description>
     </item>
     
     <item>
