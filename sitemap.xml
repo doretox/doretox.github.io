@@ -1,197 +1,125 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://doretox.github.io/</loc>
     <lastmod>2023-07-26T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/</loc>
     <lastmod>2023-07-26T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/tags/</loc>
     <lastmod>2023-07-26T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/tags/tryhackme/</loc>
     <lastmod>2023-07-26T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/network-services-2-walkthrough/</loc>
     <lastmod>2023-07-26T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/activation-function/</loc>
     <lastmod>2023-04-25T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/tags/ai/</loc>
     <lastmod>2023-04-25T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://doretox.github.io/tags/ifosec/</loc>
+    <lastmod>2023-04-25T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://doretox.github.io/posts/fundamentos-devsecops/</loc>
+    <lastmod>2023-04-25T00:00:00+05:30</lastmod>
+  </url><url>
     <loc>https://doretox.github.io/posts/av-and-edr/</loc>
     <lastmod>2023-04-14T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/tags/infosec/</loc>
     <lastmod>2023-04-14T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/tensors/</loc>
     <lastmod>2023-04-04T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/how-av-works/</loc>
     <lastmod>2023-03-23T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/types-of-ai/</loc>
     <lastmod>2023-03-07T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/after-all-what-is-chat-gpt/</loc>
     <lastmod>2023-03-03T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/knowledge-get-started-infosec/</loc>
     <lastmod>2023-02-24T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/tags/neural-networks/</loc>
     <lastmod>2022-07-19T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/perceptron/</loc>
     <lastmod>2022-07-19T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/the-hacking-methodology/</loc>
     <lastmod>2021-10-05T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/machina-easter-egg-code/</loc>
     <lastmod>2021-03-20T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/tags/programming/</loc>
     <lastmod>2021-03-20T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/nmap-walkthrought/</loc>
     <lastmod>2021-03-20T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/malware-introductory-walkthrough/</loc>
     <lastmod>2021-02-22T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/introductory-networking-walkthrough/</loc>
     <lastmod>2021-02-11T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/tmux-walkthrough/</loc>
     <lastmod>2021-02-04T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/introductory-researching-walkthrough/</loc>
     <lastmod>2021-02-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/google-dorking-walkthrough/</loc>
     <lastmod>2021-01-29T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/linux-fundamentals-part-3-walkthrough/</loc>
     <lastmod>2021-01-27T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/linux-fundamentals-part-2-walkthrough/</loc>
     <lastmod>2021-01-22T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/linux-fundamentals-part-1-walkthrough/</loc>
     <lastmod>2021-01-21T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/the-find-command-walkthrough/</loc>
     <lastmod>2021-01-20T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/tags/networking/</loc>
     <lastmod>2020-07-23T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/physical-network-topologies/</loc>
     <lastmod>2020-07-23T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/tags/linux/</loc>
     <lastmod>2020-06-22T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/why-you-should-start-your-infosec-career-by-learning-linux/</loc>
     <lastmod>2020-06-22T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/ohsint-tryhackme-walkthrough/</loc>
     <lastmod>2020-05-19T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/beginner-game-c/</loc>
     <lastmod>2020-05-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/posts/linux-file-system/</loc>
     <lastmod>2020-04-13T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/archives/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://doretox.github.io/categories/</loc>
   </url>
-  
 </urlset>
