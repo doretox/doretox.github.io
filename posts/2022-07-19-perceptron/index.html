@@ -2,15 +2,18 @@
 The following image shows how a perceptron works.</p><p><img loading=lazy src=/images/perceptron/perceptron.png alt=Perceptron></p><p>For inputs, we have a vector of values and a vector of weights. The computation of a single layer perceptron is performed over the calculation of the sum of the input vector each with the value multiplied by the corresponding element of the vector of the weights. The value displayed in the output will be the input of an activation function.</p><p>The activation function will return 0 or 1. If the return is 0 the neuron will not activate, if the result is 1 the neuron will activate.
 Down below you can see a simple code representation of a perceptron.</p><div class=highlight><pre class=chroma><code class=language-python data-lang=python><span class=kn>import</span> <span class=nn>numpy</span> <span class=kn>as</span> <span class=nn>np</span>
 
-<span class=c1># if you change the first value to -1 in inputs, the step funcion will</span>
-<span class=c1># return 0 and the neuron will not activate.</span>
+<span class=c1># if you change the first value to -1 in inputs, the step funcion will
+</span>
+<span class=c1># return 0 and the neuron will not activate.
+</span>
 <span class=n>inputs</span> <span class=o>=</span> <span class=n>np</span><span class=o>.</span><span class=n>array</span><span class=p>([</span><span class=mi>1</span><span class=p>,</span> <span class=mi>7</span><span class=p>,</span> <span class=mi>5</span><span class=p>])</span>
 <span class=n>weights</span> <span class=o>=</span> <span class=n>np</span><span class=o>.</span><span class=n>array</span><span class=p>([</span><span class=mf>0.8</span><span class=p>,</span> <span class=mf>0.1</span><span class=p>,</span> <span class=mi>0</span><span class=p>])</span>
 
 
 <span class=k>def</span> <span class=nf>multiply_and_sum</span><span class=p>(</span><span class=n>i</span><span class=p>,</span> <span class=n>w</span><span class=p>):</span>
     <span class=s2>&#34;&#34;&#34;Multiply and sum all the inputs and weights.&#34;&#34;&#34;</span>
-    <span class=k>return</span> <span class=n>i</span><span class=o>.</span><span class=n>dot</span><span class=p>(</span><span class=n>w</span><span class=p>)</span>  <span class=c1># dot product</span>
+    <span class=k>return</span> <span class=n>i</span><span class=o>.</span><span class=n>dot</span><span class=p>(</span><span class=n>w</span><span class=p>)</span>  <span class=c1># dot product
+</span>
 
 
 <span class=n>s</span> <span class=o>=</span> <span class=n>multiply_and_sum</span><span class=p>(</span><span class=n>inputs</span><span class=p>,</span> <span class=n>weights</span><span class=p>)</span>
@@ -24,7 +27,7 @@ Down below you can see a simple code representation of a perceptron.</p><div cla
 
 
 <span class=n>r</span> <span class=o>=</span> <span class=n>step_function</span><span class=p>(</span><span class=n>s</span><span class=p>)</span>
-<span class=k>print</span><span class=p>(</span><span class=n>r</span><span class=p>)</span>
+<span class=k>print</span><span class=p>(</span><span class=n>r</span><span class=p>)</span>https://www.w3.org/2000/svg
 </code></pre></div></div><footer class=post-footer><ul class=post-tags><li><a href=https://doretox.github.io/tags/neural-networks/>Neural Networks</a></li></ul><nav class=paginav><a class=prev href=https://doretox.github.io/posts/2023-02-24-knowledge-get-started-infosec/><span class=title>« Prev</span><br><span>Essential areas of knowledge to get started in Cybersecurity</span></a>
 <a class=next href=https://doretox.github.io/posts/2021-10-05-the-hacking-methodology/><span class=title>Next »</span><br><span>The Hacking Methodology</span></a></nav></footer></article></main><footer class=footer><span>&copy; 2023 <a href=https://doretox.github.io/>doretox</a></span>
 <span></span></footer><a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z" /></svg></a><script>let menu=document.getElementById('menu')
