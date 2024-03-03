@@ -11,24 +11,21 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 -0500</lastBuildDate><atom:link href="https://doretox.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 -0500</lastBuildDate>
+    <atom:link href="https://doretox.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why You Should Start Your Infosec Career by Learning Linux</title>
       <link>https://doretox.github.io/posts/why-you-should-start-your-infosec-career-by-learning-linux/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 -0500</pubDate>
-      
       <guid>https://doretox.github.io/posts/why-you-should-start-your-infosec-career-by-learning-linux/</guid>
       <description>A discussion about why you should start your infosec career by learning Linux.</description>
     </item>
-    
     <item>
       <title>Understanding the Linux file system</title>
       <link>https://doretox.github.io/posts/linux-file-system/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0530</pubDate>
-      
       <guid>https://doretox.github.io/posts/linux-file-system/</guid>
       <description>Understanding how Linux file system is organized.</description>
     </item>
-    
   </channel>
 </rss>

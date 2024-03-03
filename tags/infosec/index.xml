@@ -11,62 +11,51 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0530</lastBuildDate><atom:link href="https://doretox.github.io/tags/infosec/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0530</lastBuildDate>
+    <atom:link href="https://doretox.github.io/tags/infosec/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CI Workflow Utilizando Github Actions. Parte 1 - SAST com Bandit</title>
       <link>https://doretox.github.io/posts/ci-githubactions.md/</link>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0530</pubDate>
-      
       <guid>https://doretox.github.io/posts/ci-githubactions.md/</guid>
       <description>Neste post, explicarei o fluxo de trabalho para uma CI (Continuous Integration) que desenvolvi usando as GitHub Actions. Você pode acessar o repositório deste fluxo de trabalho através do seguinte link. Para este post, subentende-se que o leitor já tenha conhecimento prévio sobre os termos utilizados neste tipo de projeto. Esta é a demonstração de um exemplo prático.
 Primeiramente foi feito um fork do projeto pygoat. O projeto PyGoat é uma aplicação de exemplo construída em Python, com o objetivo de fornecer um ambiente prático para aprender sobre práticas de segurança e testes de segurança de aplicações.</description>
     </item>
-    
     <item>
       <title>Princípios Fundamentais de DevSecOps</title>
       <link>https://doretox.github.io/posts/fundamentos-devsecops/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://doretox.github.io/posts/fundamentos-devsecops/</guid>
       <description>No mundo acelerado do desenvolvimento de software, a segurança não é mais uma tarefa tardia, mas uma parte integrante de todo o processo. É aí que entra o DevSecOps – uma metodologia que combina desenvolvimento, segurança e operações para garantir a entrega segura e eficiente de software.
 Mudança para a esquerda: DevSecOps defende a mudança das práticas de segurança para a esquerda no ciclo de vida de desenvolvimento, o que significa integrar medidas de segurança desde o início do processo de desenvolvimento de software.</description>
     </item>
-    
     <item>
       <title>Endpoint Detection and Response (EDR) vs Antivirus: Understanding the Differences</title>
       <link>https://doretox.github.io/posts/av-and-edr/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0530</pubDate>
-      
       <guid>https://doretox.github.io/posts/av-and-edr/</guid>
       <description>An article explaining the differences between av and edr.</description>
     </item>
-    
     <item>
       <title>How Does Anti-Virus Software Work? A Comprehensive Guide for Everyone.</title>
       <link>https://doretox.github.io/posts/how-av-works/</link>
       <pubDate>Thu, 23 Mar 2023 00:00:00 +0530</pubDate>
-      
       <guid>https://doretox.github.io/posts/how-av-works/</guid>
       <description>Explaining in a simply way how does an anti-virus works.</description>
     </item>
-    
     <item>
       <title>Essential areas of knowledge to get started in Cybersecurity</title>
       <link>https://doretox.github.io/posts/knowledge-get-started-infosec/</link>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0530</pubDate>
-      
       <guid>https://doretox.github.io/posts/knowledge-get-started-infosec/</guid>
       <description>Essential areas of knowledge to get started in Cybersecurity.</description>
     </item>
-    
     <item>
       <title>The Hacking Methodology</title>
       <link>https://doretox.github.io/posts/the-hacking-methodology/</link>
       <pubDate>Tue, 05 Oct 2021 00:00:00 -0500</pubDate>
-      
       <guid>https://doretox.github.io/posts/the-hacking-methodology/</guid>
       <description>The Hacking Methodology.</description>
     </item>
-    
   </channel>
 </rss>

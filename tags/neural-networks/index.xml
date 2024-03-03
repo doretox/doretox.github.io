@@ -11,15 +11,14 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Jul 2022 00:00:00 +0530</lastBuildDate><atom:link href="https://doretox.github.io/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Jul 2022 00:00:00 +0530</lastBuildDate>
+    <atom:link href="https://doretox.github.io/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Perceptron: The most simple form of an artificial neural network</title>
       <link>https://doretox.github.io/posts/perceptron/</link>
       <pubDate>Tue, 19 Jul 2022 00:00:00 +0530</pubDate>
-      
       <guid>https://doretox.github.io/posts/perceptron/</guid>
       <description>Built of one single neural layer and a single neuron.</description>
     </item>
-    
   </channel>
 </rss>
