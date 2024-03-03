@@ -14,7 +14,7 @@ minify:
   disableXML: true
   minifyOutput: true
 
-publishDir = "public"  # Esta linha especifica onde os arquivos gerados devem ser colocados
+publishDir: "public"  # Esta linha especifica onde os arquivos gerados devem ser colocados
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
