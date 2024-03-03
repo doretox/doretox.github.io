@@ -7,7 +7,7 @@ Para este post, subentende-se que o leitor já tenha conhecimento prévio sobre 
 E o scan utilizado será o <a href=https://github.com/PyCQA/bandit>Bandit</a>, que é uma ferramenta de análise de segurança estática para código Python.</p><pre tabindex=0><code>name: Fluxo de Trabalho de CI
 
 on: workflow_dispatch
-</code></pre><p>Iniciando com o título, este pode ser escolhido de acordo com sua preferência. A chave <code>on:</code> define quando seu fluxo de trabalho será acionado. Normalmente, é <code>on: push</code>, para que o fluxo de trabalho seja executado automaticamente após um push. No entanto, no meu exemplo, optei por <code>on: workflow_dispatch</code> para permitir a execução manual, apenas para facilitar a execução e teste, já que estamos em ambiente simulado.</p><p><img loading=lazy src=%5cimages%5cci-workflow-pt1%5crun_workflow.jpg alt="Workflow Dispatch."></p><p>O próximo passo será configurar os JOBS, que são todas os eventos que serão executados após realizar um push no repositório.</p><pre tabindex=0><code>jobs:
+</code></pre><p>Iniciando com o título, este pode ser escolhido de acordo com sua preferência. A chave <code>on:</code> define quando seu fluxo de trabalho será acionado. Normalmente, é <code>on: push</code>, para que o fluxo de trabalho seja executado automaticamente após um push. No entanto, no meu exemplo, optei por <code>on: workflow_dispatch</code> para permitir a execução manual, apenas para facilitar a execução e teste, já que estamos em ambiente simulado.</p><p>O próximo passo será configurar os JOBS, que são todas os eventos que serão executados após realizar um push no repositório.</p><pre tabindex=0><code>jobs:
  sast_scan:
    name: Run Bandit Scan
    runs-on: ubuntu-latest
