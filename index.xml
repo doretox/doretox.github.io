@@ -11,7 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://doretox.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0530</lastBuildDate><atom:link href="https://doretox.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CI Workflow Utilizando Github Actions. Parte 1 - SAST com Bandit</title>
+      <link>https://doretox.github.io/posts/ci-githubactions.md/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0530</pubDate>
+      
+      <guid>https://doretox.github.io/posts/ci-githubactions.md/</guid>
+      <description>Neste post, explicarei o fluxo de trabalho para uma CI (Continuous Integration) que desenvolvi usando as GitHub Actions. Você pode acessar o repositório deste fluxo de trabalho através do seguinte link. Para este post, subentende-se que o leitor já tenha conhecimento prévio sobre os termos utilizados neste tipo de projeto. Esta é a demonstração de um exemplo prático.
+Primeiramente foi feito um fork do projeto pygoat. O projeto PyGoat é uma aplicação de exemplo construída em Python, com o objetivo de fornecer um ambiente prático para aprender sobre práticas de segurança e testes de segurança de aplicações.</description>
+    </item>
+    
     <item>
       <title>Princípios Fundamentais de DevSecOps</title>
       <link>https://doretox.github.io/posts/fundamentos-devsecops/</link>
