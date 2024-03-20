@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DevSecOps on doretox</title>
+    <link>https://doretox.github.io/tags/devsecops/</link>
+    <description>Recent content in DevSecOps on doretox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0530</lastBuildDate>
+    <atom:link href="https://doretox.github.io/tags/devsecops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CI Workflow Utilizando Github Actions. Parte 2 - SAST com Bandit</title>
+      <link>https://doretox.github.io/posts/ci-githubactions-pt-2/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0530</pubDate>
+      <guid>https://doretox.github.io/posts/ci-githubactions-pt-2/</guid>
+      <description>Na segunda parte, continuaremos a explorar o fluxo de trabalho que desenvolvi para Continuous Integration (CI) utilizando GitHub Actions. Se você acompanhou o primeiro post, já está familiarizado com o contexto geral e pode acessar o repositório do projeto através do link. Neste post, vou guiar passo a passo na configuração e execução da montagem automática de uma imagem Docker, além de mostrar como fazer a verificação de segurança utilizando Docker Scout.</description>
+    </item>
+    <item>
+      <title>CI Workflow Utilizando Github Actions. Parte 1 - SAST com Bandit</title>
+      <link>https://doretox.github.io/posts/ci-githubactions/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0530</pubDate>
+      <guid>https://doretox.github.io/posts/ci-githubactions/</guid>
+      <description>Neste post, explicarei o fluxo de trabalho para uma CI (Continuous Integration) que desenvolvi usando as GitHub Actions. Você pode acessar o repositório deste fluxo de trabalho através do seguinte link. Para este post, subentende-se que o leitor já tenha conhecimento prévio sobre os termos utilizados neste tipo de projeto. Esta é a demonstração de um exemplo prático.
+Primeiramente foi feito um fork do projeto pygoat. O projeto PyGoat é uma aplicação de exemplo construída em Python, com o objetivo de fornecer um ambiente prático para aprender sobre práticas de segurança e testes de segurança de aplicações.</description>
+    </item>
+  </channel>
+</rss>

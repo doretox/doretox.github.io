@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://doretox.github.io/posts/ci-githubactions.md/</loc>
-    <lastmod>2024-03-03T00:00:00+05:30</lastmod>
+    <loc>https://doretox.github.io/posts/ci-githubactions-pt-2/</loc>
+    <lastmod>2024-03-20T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://doretox.github.io/tags/devsecops/</loc>
+    <lastmod>2024-03-20T00:00:00+05:30</lastmod>
   </url><url>
     <loc>https://doretox.github.io/</loc>
-    <lastmod>2024-03-03T00:00:00+05:30</lastmod>
+    <lastmod>2024-03-20T00:00:00+05:30</lastmod>
   </url><url>
     <loc>https://doretox.github.io/tags/infosec/</loc>
-    <lastmod>2024-03-03T00:00:00+05:30</lastmod>
+    <lastmod>2024-03-20T00:00:00+05:30</lastmod>
   </url><url>
     <loc>https://doretox.github.io/posts/</loc>
-    <lastmod>2024-03-03T00:00:00+05:30</lastmod>
+    <lastmod>2024-03-20T00:00:00+05:30</lastmod>
   </url><url>
     <loc>https://doretox.github.io/tags/</loc>
+    <lastmod>2024-03-20T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://doretox.github.io/posts/ci-githubactions/</loc>
     <lastmod>2024-03-03T00:00:00+05:30</lastmod>
   </url><url>
     <loc>https://doretox.github.io/posts/fundamentos-devsecops/</loc>

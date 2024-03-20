@@ -6,13 +6,20 @@
     <description>Recent content in Posts on doretox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0530</lastBuildDate>
     <atom:link href="https://doretox.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>CI Workflow Utilizando Github Actions. Parte 2 - SAST com Bandit</title>
+      <link>https://doretox.github.io/posts/ci-githubactions-pt-2/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0530</pubDate>
+      <guid>https://doretox.github.io/posts/ci-githubactions-pt-2/</guid>
+      <description>Na segunda parte, continuaremos a explorar o fluxo de trabalho que desenvolvi para Continuous Integration (CI) utilizando GitHub Actions. Se você acompanhou o primeiro post, já está familiarizado com o contexto geral e pode acessar o repositório do projeto através do link. Neste post, vou guiar passo a passo na configuração e execução da montagem automática de uma imagem Docker, além de mostrar como fazer a verificação de segurança utilizando Docker Scout.</description>
+    </item>
+    <item>
       <title>CI Workflow Utilizando Github Actions. Parte 1 - SAST com Bandit</title>
-      <link>https://doretox.github.io/posts/ci-githubactions.md/</link>
+      <link>https://doretox.github.io/posts/ci-githubactions/</link>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0530</pubDate>
-      <guid>https://doretox.github.io/posts/ci-githubactions.md/</guid>
+      <guid>https://doretox.github.io/posts/ci-githubactions/</guid>
       <description>Neste post, explicarei o fluxo de trabalho para uma CI (Continuous Integration) que desenvolvi usando as GitHub Actions. Você pode acessar o repositório deste fluxo de trabalho através do seguinte link. Para este post, subentende-se que o leitor já tenha conhecimento prévio sobre os termos utilizados neste tipo de projeto. Esta é a demonstração de um exemplo prático.
 Primeiramente foi feito um fork do projeto pygoat. O projeto PyGoat é uma aplicação de exemplo construída em Python, com o objetivo de fornecer um ambiente prático para aprender sobre práticas de segurança e testes de segurança de aplicações.</description>
     </item>
