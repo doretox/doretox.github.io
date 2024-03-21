@@ -6,8 +6,17 @@
     <description>Recent content in Posts on doretox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0530</lastBuildDate>
     <atom:link href="https://doretox.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TryHackMe: Introduction to DevSecOps - Gabarito</title>
+      <link>https://doretox.github.io/posts/introduction-to-devsecops/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0530</pubDate>
+      <guid>https://doretox.github.io/posts/introduction-to-devsecops/</guid>
+      <description>Neste post irei ajudar aqueles que pretendem fazer o Room Introduction to DevSecOps do TryHackMe. Eu vou colocar as respostas no texto. Encorajo fortemente a você tentar resolver os exercícios e só em caso de ficar muito preso em algo, conferir a resposta. Vamos as Taks.
+Task 2 - DevOps: A New Hope As respostas para essa task estão no texto.
+What methodology relies on self-organising teams that focus on constructive collaboration?</description>
+    </item>
     <item>
       <title>CI Workflow Utilizando Github Actions. Parte 2 - SAST com Bandit</title>
       <link>https://doretox.github.io/posts/ci-githubactions-pt-2/</link>
